@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nelsonken/emlparser/decoder"
+	"github.com/nelsonken/emlparser-go/decoder"
 )
 
 var benc = base64.URLEncoding

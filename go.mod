@@ -1,4 +1,4 @@
-module github.com/nelsonken/emlparser
+module github.com/nelsonken/emlparser-go
 
 go 1.14
 
